@@ -5,7 +5,7 @@ services:
     env: docker
     dockerfilePath: Dockerfile
     repo: https://github.com/Siddwap/VJ-Save-Restricted-Content-Colab 
-    branch: main
+    branch: master
     autoDeploy: false
     envVars:
       - key: BOT_TOKEN
